@@ -1,0 +1,5 @@
+- Use GloVe embeddings for pretrained word2vecs. 
+- **Build a basic markup of the model and visualize the model in tensorboard**
+- Come up with a technique to model the data using `tf.dataset` api
+- Come up with techiques to clean and store data
+- Study `text2ctf.py` for data cleaning techniques.
